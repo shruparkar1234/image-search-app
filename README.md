@@ -144,7 +144,7 @@ image-search-app/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/image-search-app.git
+git clone:- https://github.com/shruparkar1234/image-search-app-2.git
 cd image-search-app
 ```
 
